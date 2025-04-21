@@ -26,7 +26,7 @@
 ## 🗄️ 資料庫工具
 
 - 🐬 [DBeaver - 社群版支援 SQL 類的資料庫](https://dbeaver.io/)  
-- 🗃️ [SQLite 檢視器 - 管理與檢視 SQLite 資料庫 (VS Code 擴充)](https://marketplace.visualstudio.com/items?itemName=qwtel.sqlite-viewer)
+- 🗃️ [SQLite 檢視器 - 檢視 SQLite 資料庫 (VS Code 擴充)](https://marketplace.visualstudio.com/items?itemName=qwtel.sqlite-viewer)
 
 ---
 
