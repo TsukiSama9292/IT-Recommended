@@ -11,6 +11,7 @@
 - [🌐 網路與連線](#🌐-網路與連線)
 - [🛠️ 開發工具](#🛠️-開發工具)
 - [🔗 版本控制與自動化](#🔗-版本控制與自動化)
+- [🐋 Docker 鏡像](#🐋-Docker-鏡像)
 - [☁️ 雲服務](#☁️-雲服務)
 - [📦 套件管理](#📦-套件管理)
 - [🔌 API 測試](#🔌-api-測試)
@@ -22,7 +23,8 @@
 ## 🖥️ 環境與虛擬化
 
 - 🏗️ [Proxmox VE - 最推薦的開源虛擬化平台，原生KVM](https://www.proxmox.com/en/proxmox-ve)
-- 🌐 [Kasm Workspaces - 網頁伺服器，容器化 Linux 瀏覽器桌面](https://kasmweb.com/)  
+- 🌐 [Kasm Workspaces - 網頁伺服器，容器化 Linux 瀏覽器桌面](https://kasmweb.com/)
+  - 🗂️ [Kasm Workspace 註冊表 - TsukiSama9292's 註冊表，內部有便於伺服器開發的鏡像](https://tsukisama9292.github.io/kasm_registry/)
 - 🖥️ [Virtualbox - 開源的虛擬化軟體，適合初學者，容易上手](https://www.virtualbox.org/)  
 - 💻 [VMware Workstation - 個人免費的虛擬化軟體，適合熟練的操作者](https://www.vmware.com/products/workstation.html)
 - 🐳 [Docker - 輕量級容器化工具](https://www.docker.com/)  
@@ -60,6 +62,18 @@
   - 🌐 [GitHub Pages - 靜態網站託管服務](https://pages.github.com/)
   - 📦 [GitHub Releases - 發布軟體或程式的版本](https://github.com/features/releases)
 - 🐋 [Docker Hub - 容器映像檔託管平台](https://hub.docker.com/)
+
+---
+
+## 🐋 Docker 鏡像
+
+- 🧠 [Pytorch - 流行的深度學習框架](https://hub.docker.com/r/pytorch/pytorch)
+- 🔢 [TensorFlow - 跨平台能力強的深度學習框架](https://hub.docker.com/r/tensorflow/tensorflow)
+- 🐧 [Ubuntu - 公認最方便且容易上手的 Linux 發行版](https://hub.docker.com/_/ubuntu)
+- 🌐 [Nginx - 網頁伺服器，高效能且穩定的反向代理、靜態資源託管工具](https://hub.docker.com/_/nginx)
+- 🐬 [MariaDB - 與 MySQL 相關套件高度兼容，優化 SQL 指令速度，完全社群支持](https://hub.docker.com/_/mariadb)
+- 🧳 [Redis - 記憶體資料庫，高效且穩定調用記憶體，便於異步伺服器開發服務](https://hub.docker.com/_/redis)
+- 🤖 [Ollama - 運行大型語言模型和嵌入模型的框架](https://hub.docker.com/r/ollama/ollama)
 
 ---
 
