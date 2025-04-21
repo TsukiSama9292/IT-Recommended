@@ -10,6 +10,7 @@
 - [🖥️ 環境與虛擬化](#🖥️-環境與虛擬化)
 - [🌐 網路與連線](#🌐-網路與連線)
 - [🛠️ 開發工具](#🛠️-開發工具)
+- [🔗 版本控制與自動化](#🔗-版本控制與自動化)
 - [☁️ 雲服務](#☁️-雲服務)
 - [📦 套件管理](#📦-套件管理)
 - [🔌 API 測試](#🔌-api-測試)
@@ -39,7 +40,8 @@
 
 ## 🛠️ 開發工具
 
-- 🧠 [Visual Studio Code - 輕量級現代化程式編輯器](https://code.visualstudio.com/)  
+- 🧠 [Visual Studio Code - 輕量級現代化程式編輯器](https://code.visualstudio.com/)
+  - 🔗 [Visual Studio Code - 原生版本控制功能](https://code.visualstudio.com/docs/introvideos/versioncontrol)
   - 🌍 [Remote Development 擴充套件包 - 遠端開發神器](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)  
   - 🐳 [Docker 擴充插件 - 容器開發與管理](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)  
   - 🐍 [Python 擴充插件 - Python 語言支援](https://marketplace.visualstudio.com/items?itemName=ms-python.python)  
