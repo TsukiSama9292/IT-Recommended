@@ -51,6 +51,16 @@
 
 ---
 
+## 🔗 版本控制與自動化
+
+- 💻 [GitHub - 儲存、管理、發布程式與軟體的平台](https://github.com/)
+  - 🧑‍💻 [GitHub Actions - 持續整合與持續部署 (CI/CD) 工具](https://github.com/features/actions)  
+  - 🌐 [GitHub Pages - 靜態網站託管服務](https://pages.github.com/)
+  - 📦 [GitHub Releases - 發布軟體或程式的版本](https://github.com/features/releases)
+- 🐋 [Docker Hub - 容器映像檔託管平台](https://hub.docker.com/)
+
+---
+
 ## ☁️ 雲服務
 
 - ☁️ [Google Cloud Platform (GCP) - Google 提供的全方位雲端運算平台](https://cloud.google.com/)  
@@ -90,15 +100,5 @@
 - 🖼️ [GIMP - 開源的影像處理工具，功能強大且免費](https://www.gimp.org/)  
 - 🎬 [Kdenlive - 開源的影片剪輯工具，快速編輯影片](https://kdenlive.org/)
 - 🎥 [DaVinci Resolve - 免費版功能齊全，可製作精緻影片](https://www.blackmagicdesign.com/cn/products/davinciresolve)
-
----
-
-## 🔗 版本控制與自動化
-
-- 💻 [GitHub - 儲存、管理、發布程式與軟體的平台](https://github.com/)
-  - 🧑‍💻 [GitHub Actions - 持續整合與持續部署 (CI/CD) 工具](https://github.com/features/actions)  
-  - 🌐 [GitHub Pages - 靜態網站託管服務](https://pages.github.com/)
-  - 📦 [GitHub Releases - 發布軟體或程式的版本](https://github.com/features/releases)
-- 🐋 [Docker Hub - 容器映像檔託管平台](https://hub.docker.com/)
 
 ---
