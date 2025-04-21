@@ -50,13 +50,13 @@
 
 ## 🛠️ 開發工具
 
-- 🧠 [Visual Studio Code](https://code.visualstudio.com/)  
-  - 🌍 [Remote Development 擴充套件包](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)  
-  - 🐳 [Docker 擴充插件](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)  
-  - 🐍 [Python 擴充插件](https://marketplace.visualstudio.com/items?itemName=ms-python.python)  
-  - 📓 [Jupyter 擴充插件](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)  
-  - 🔴 [Live Server 擴充插件](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)  
-  - ▶️ [Code Runner 擴充插件](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)  
+- 🧠 [Visual Studio Code - 輕量級現代化程式編輯器](https://code.visualstudio.com/)  
+  - 🌍 [Remote Development 擴充套件包 - 遠端開發神器](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)  
+  - 🐳 [Docker 擴充插件 - 容器開發與管理](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)  
+  - 🐍 [Python 擴充插件 - Python 語言支援](https://marketplace.visualstudio.com/items?itemName=ms-python.python)  
+  - 📓 [Jupyter 擴充插件 - 支援 Notebook 開發](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)  
+  - 🔴 [Live Server - 靜態頁面即時預覽工具](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)  
+  - ▶️ [Code Runner - 多語言程式碼執行工具](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 
 - 🔐 [SSH - 遠端連線與系統管理工具 (可使用 OpenSSH)](https://www.openssh.com/)
 
@@ -71,12 +71,12 @@
 
 ## ☁️ 雲服務
 
-- ☁️ [Google Cloud Platform (GCP)](https://cloud.google.com/)  
-- 🟧 [AWS](https://aws.amazon.com/)  
-- 🍃 [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)  
-- 🔥 [Firebase](https://firebase.google.com/)  
-- 📡 [ThingSpeak](https://thingspeak.com/)  
-- 📔 [Google Colab](https://colab.research.google.com/)  
-- 🧠 [Kaggle](https://www.kaggle.com/)
+- ☁️ [Google Cloud Platform (GCP) - Google 提供的全方位雲端運算平台](https://cloud.google.com/)  
+- 🟧 [AWS - Amazon 提供的雲端運算與儲存平台](https://aws.amazon.com/)  
+- 🍃 [MongoDB Atlas - MongoDB 雲端託管服務，支援自動擴展與備份](https://www.mongodb.com/cloud/atlas)  
+- 🔥 [Firebase - Google 提供的行動與 Web 應用後端服務](https://firebase.google.com/)  
+- 📡 [ThingSpeak - IoT 資料收集與視覺化平台 (支援 MQTT 與 API 存取)](https://thingspeak.com/)  
+- 📔 [Google Colab - 雲端 Notebook 開發環境，支援 GPU/TPU 執行](https://colab.research.google.com/)  
+- 🧠 [Kaggle - 資料科學競賽平台，提供免費 GPU/TPU Notebook 執行環境](https://www.kaggle.com/)
 
 ---
