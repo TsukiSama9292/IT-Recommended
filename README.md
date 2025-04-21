@@ -1,50 +1,39 @@
 # 🔧 好用工具整理
 
-這是一份適合開發者使用的工具清單，涵蓋 API 測試、資料庫、套件管理、虛擬化、開發環境、VPN 連線、雲端服務等類別，支援各種日常開發需求。
+這是一份適合開發者使用的工具清單，涵蓋 API 測試、資料庫、套件管理、虛擬化、開發環境、VPN 連線、雲端服務等類別，支援各種日常開發需求。  
+此處推薦的所有工具與服務，只考慮 Linux 可以運行的，但多數工具都是支援 Windows/MacOS/Linux。
 
 ---
 
 ## 目錄
 
+- [🖥️ 環境與虛擬化](#🖥️-環境與虛擬化)
+- [🌐 網路與連線](#🌐-網路與連線)
+- [🛠️ 開發工具](#🛠️-開發工具)
+- [☁️ 雲服務](#☁️-雲服務)
+- [📦 套件管理](#📦-套件管理)
 - [🔌 API 測試](#🔌-api-測試)
 - [🗄️ 資料庫工具](#🗄️-資料庫工具)
-- [📦 套件管理](#📦-套件管理)
-- [🖥️ 環境與虛擬化](#🖥️-環境與虛擬化)
-- [🛠️ 開發工具](#🛠️-開發工具)
-- [🌐 網路與連線](#🌐-網路與連線)
-- [☁️ 雲服務](#☁️-雲服務)
-
----
-
-## 🔌 API 測試
-
-- 🧪 [Postman - 完整功能 (3人團隊免費)](https://www.postman.com/)  
-- ⚡ [HTTPie - 輕巧 (僅單人，可共用 GitHub 帳號解決同步)](https://httpie.io/)
-
----
-
-## 🗄️ 資料庫工具
-
-- 🐬 [DBeaver - 社群版支援 SQL 類的資料庫](https://dbeaver.io/)  
-- 🗃️ [SQLite 檢視器 - 檢視 SQLite 資料庫 (VS Code 擴充)](https://marketplace.visualstudio.com/items?itemName=qwtel.sqlite-viewer)
-
----
-
-## 📦 套件管理
-
-- 🔄 [NVM - Node.js 和 npm 的版本管理工具](https://github.com/nvm-sh/nvm)  
-- 🐍 [Miniconda - 輕量級 Conda 套件與環境管理工具](https://docs.conda.io/en/latest/miniconda.html)  
-- ♻️ [venv - Python 內建虛擬環境管理工具](https://docs.python.org/3/library/venv.html)
+- [🖼️ 影像工具](#🖼️-影像工具)
 
 ---
 
 ## 🖥️ 環境與虛擬化
 
+- 🏗️ [Proxmox VE - 最推薦的開源虛擬化平台，原生KVM](https://www.proxmox.com/en/proxmox-ve)
+- 🌐 [Kasm Workspaces - 網頁伺服器，容器化 Linux 瀏覽器桌面](https://kasmweb.com/)  
+- 🖥️ [Virtualbox - 開源的虛擬化軟體，適合初學者，容易上手](https://www.virtualbox.org/)  
+- 💻 [VMware Workstation - 個人免費的虛擬化軟體，適合熟練的操作者](https://www.vmware.com/products/workstation.html)
 - 🐳 [Docker - 輕量級容器化工具](https://www.docker.com/)  
 - 🧩 [Docker Compose - 定義與管理多容器應用](https://docs.docker.com/compose/)  
-- 🏗️ [Proxmox VE - 開源虛擬化平台](https://www.proxmox.com/en/proxmox-ve)  
-- 🌐 [Kasm Workspaces - 容器化 Linux 瀏覽器桌面](https://kasmweb.com/)  
-- 🪟 [dockur/windows - 容器化 Windows 虛擬機](https://github.com/dockur/windows)
+- 🪟 [dockur/windows - 容器化 Windows 虛擬機](https://github.com/dockur/windows)  
+
+---
+
+## 🌐 網路與連線
+
+- 🤝 [ZeroTier - 多人連線 VPN 工具](https://www.zerotier.com/)  
+- 🔗 [Tailscale - 多設備 VPN 工具，簡易設定](https://tailscale.com/)
 
 ---
 
@@ -62,13 +51,6 @@
 
 ---
 
-## 🌐 網路與連線
-
-- 🤝 [ZeroTier - 多人連線 VPN 工具](https://www.zerotier.com/)  
-- 🔗 [Tailscale - 多設備 VPN 工具，簡易設定](https://tailscale.com/)
-
----
-
 ## ☁️ 雲服務
 
 - ☁️ [Google Cloud Platform (GCP) - Google 提供的全方位雲端運算平台](https://cloud.google.com/)  
@@ -80,3 +62,31 @@
 - 🧠 [Kaggle - 資料科學競賽平台，提供免費 GPU/TPU Notebook 執行環境](https://www.kaggle.com/)
 
 ---
+
+## 📦 套件管理
+
+- 🔄 [NVM - Node.js 和 npm 的版本管理工具](https://github.com/nvm-sh/nvm)  
+- 🐍 [Miniconda - 輕量級 Conda 套件與環境管理工具](https://docs.conda.io/en/latest/miniconda.html)  
+- ♻️ [venv - Python 內建虛擬環境管理工具](https://docs.python.org/3/library/venv.html)
+
+---
+
+## 🔌 API 測試
+
+- 🧪 [Postman - 完整功能 (3人團隊免費)](https://www.postman.com/)  
+- ⚡ [HTTPie - 輕巧 (僅單人，可共用 GitHub 帳號解決同步)](https://httpie.io/)
+
+---
+
+## 🗄️ 資料庫工具
+
+- 🐬 [DBeaver - 社群版支援 SQL 類的資料庫](https://dbeaver.io/)  
+- 🗃️ [SQLite 檢視器 - 檢視 SQLite 資料庫 (VS Code 擴充)](https://marketplace.visualstudio.com/items?itemName=qwtel.sqlite-viewer)
+
+---
+
+## 🖼️ 影像工具
+
+- 🖼️ [GIMP - 開源的影像處理工具，功能強大且免費](https://www.gimp.org/)  
+- 🎬 [Kdenlive - 開源的影片剪輯工具，快速編輯影片](https://kdenlive.org/)
+- 🎥 [DaVinci Resolve - 免費版功能齊全，可製作精緻影片](https://www.blackmagicdesign.com/cn/products/davinciresolve)
